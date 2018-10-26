@@ -27,6 +27,7 @@ echo "Commit3";
 echo "Commit4";
 echo "Commit5";
 echo "Commit6";
+echo "Commit7";
   }
 ?>
   </body>
