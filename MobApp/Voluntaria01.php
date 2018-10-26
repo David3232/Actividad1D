@@ -18,7 +18,8 @@
     }
 echo "Modificacion para despliegue";
 echo "Modificacion para despliegue";
-echo "Modificacion para despliegue";
+echo "Commit1";
+echo "Commit2";
   }
 ?>
   </body>
